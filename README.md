@@ -10,4 +10,4 @@ So, the thing i want to told you is:
 
     C:\Users\Windows> open .
 
-"THAT'S IT, THAT'S IT" - That guy in (God's Plan - Drake) [https://youtu.be/xpVfcZ0ZcFM?t=32s]
+"THAT'S IT, THAT'S IT" - That guy in (God's Plan - Drake)[https://youtu.be/xpVfcZ0ZcFM?t=32s]
